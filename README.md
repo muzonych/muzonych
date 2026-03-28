@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm [Твое Имя]! 👋
 
-<!--
-**muzonych/muzonych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 15-year-old Automation Developer | Python & other
 
-Here are some ideas to get you started:
+I don't just write code — I build production-ready AI solutions that solve real business problems. 
+Native-level English (**C1**) and a passion for rapid development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 **Currently working on:** AI Lead Generation Agents & Business Automations.
+- ⚡ **Speed:** I build functional MVPs in 24-48 hours.
+- 💬 **Ask me about:** Python, aiogram, and how to automate your routine.
+
+---
+
+### 🛠 My Tech Stack
+- **Languages:** Python (Primary), TypeScript, SQL.
+- **Frameworks:** aiogram, FastAPI, Next.js.
+- **Tools:** VS Code, Git, Render/Railway.
+
+### 📈 Featured Project
+[📺 Watch Demo Video](https://youtube.com/shorts/6ZrQ4MaouWc?si=mCh_I1T1E1Q0Cao7)
