@@ -1,4 +1,4 @@
-# Hi there, I'm [Твое Имя]! 👋
+# Hi there, I'm Klym! 👋
 
 ### 🚀 15-year-old Automation Developer | Python & other
 
